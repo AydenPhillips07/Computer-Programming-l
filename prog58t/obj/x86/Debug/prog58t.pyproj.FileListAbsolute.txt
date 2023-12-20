@@ -1,0 +1,14 @@
+C:\Users\phillips.a5\Desktop\Programming - 1\prog58t\bin\Debug\prog58t.exe.config
+C:\Users\phillips.a5\Desktop\Programming - 1\prog58t\bin\Debug\prog58t.exe
+C:\Users\phillips.a5\Desktop\Programming - 1\prog58t\bin\Debug\prog58t.dll
+C:\Users\phillips.a5\Desktop\Programming - 1\prog58t\bin\Debug\IronPython.dll
+C:\Users\phillips.a5\Desktop\Programming - 1\prog58t\bin\Debug\IronPython.Modules.dll
+C:\Users\phillips.a5\Desktop\Programming - 1\prog58t\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\phillips.a5\Desktop\Programming - 1\prog58t\bin\Debug\Microsoft.Scripting.dll
+C:\Users\phillips.a5\Desktop\Programming - 1\prog58t\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\phillips.a5\Desktop\Programming - 1\prog58t\bin\Debug\IronPython.xml
+C:\Users\phillips.a5\Desktop\Programming - 1\prog58t\bin\Debug\IronPython.Modules.xml
+C:\Users\phillips.a5\Desktop\Programming - 1\prog58t\obj\x86\Debug\prog58t.pyprojResolveAssemblyReference.cache
+C:\Users\phillips.a5\Desktop\Programming - 1\prog58t\obj\x86\Debug\prog58t.MainForm.resources
+C:\Users\phillips.a5\Desktop\Programming - 1\prog58t\obj\x86\Debug\prog58t.pyproj.GenerateResource.Cache
+C:\Users\phillips.a5\Desktop\Programming - 1\prog58t\obj\x86\Debug\prog58t.exe

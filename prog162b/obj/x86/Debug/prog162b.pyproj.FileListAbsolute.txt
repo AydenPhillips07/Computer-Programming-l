@@ -1,0 +1,14 @@
+C:\Users\phillips.a5\Desktop\Programming - 1\prog162b\bin\Debug\prog162b.exe.config
+C:\Users\phillips.a5\Desktop\Programming - 1\prog162b\bin\Debug\prog162b.exe
+C:\Users\phillips.a5\Desktop\Programming - 1\prog162b\bin\Debug\prog162b.dll
+C:\Users\phillips.a5\Desktop\Programming - 1\prog162b\bin\Debug\IronPython.dll
+C:\Users\phillips.a5\Desktop\Programming - 1\prog162b\bin\Debug\IronPython.Modules.dll
+C:\Users\phillips.a5\Desktop\Programming - 1\prog162b\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\phillips.a5\Desktop\Programming - 1\prog162b\bin\Debug\Microsoft.Scripting.dll
+C:\Users\phillips.a5\Desktop\Programming - 1\prog162b\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\phillips.a5\Desktop\Programming - 1\prog162b\bin\Debug\IronPython.xml
+C:\Users\phillips.a5\Desktop\Programming - 1\prog162b\bin\Debug\IronPython.Modules.xml
+C:\Users\phillips.a5\Desktop\Programming - 1\prog162b\obj\x86\Debug\prog162b.pyprojResolveAssemblyReference.cache
+C:\Users\phillips.a5\Desktop\Programming - 1\prog162b\obj\x86\Debug\prog162b.MainForm.resources
+C:\Users\phillips.a5\Desktop\Programming - 1\prog162b\obj\x86\Debug\prog162b.pyproj.GenerateResource.Cache
+C:\Users\phillips.a5\Desktop\Programming - 1\prog162b\obj\x86\Debug\prog162b.exe
